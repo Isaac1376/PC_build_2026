@@ -2,9 +2,13 @@
 
 A futuristic gaming PC showcase website built with **HTML, CSS, and JavaScript**, featuring neon cyberpunk effects, animated components, RGB-inspired UI elements, and detailed specifications for a flagship gaming setup powered by the **AMD Ryzen 9 9800X3D** and **NVIDIA RTX 4090**.
 
+<img width="1402" height="1122" alt="ChatGPT Image Jun 22, 2026, 05_25_17 PM" src="https://github.com/user-attachments/assets/faa56e04-99fc-4352-9558-6b11a75f5d55" />
+
+
 ---
 
 ## 📸 Project Overview
+
 
 This project presents a premium gaming PC configuration in a visually engaging format with:
 
